@@ -48,8 +48,6 @@ void append(Node** head_ref, int new_data){
 	return;
 }
 
-// This code is contributed by anmolgautam818
-
  
 int main() {
     Node * head= NULL;
